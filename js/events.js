@@ -4,7 +4,7 @@ function getIt(){
   });
 
 
-
+$(document).ready(function(){
   getIt();
 
   frameIt();
